@@ -6,19 +6,19 @@ const chalk = require("chalk")
 //===================================== 
 //-------------------------------------
 
-global.log0 = "https://telegra.ph/file/891dd12dfb6515ebc79d2.jpg"  //< AKI
+global.log0 = "https://i.pinimg.com/564x/ef/74/62/ef746230d0f36f776b4db239986f8720.jpg"  //< AKI
 //FOTO DO BOT/MENU
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.thumb = "https://telegra.ph/file/891dd12dfb6515ebc79d2.jpg"   //AKI
+global.thumb = "https://i.pinimg.com/564x/ef/74/62/ef746230d0f36f776b4db239986f8720.jpg"   //AKI
 //FOTO DA THUMB ( DO CONST|SELO )
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.err4r = "https://telegra.ph/file/891dd12dfb6515ebc79d2.jpg" /// <AKI
+global.err4r = "https://i.pinimg.com/564x/ef/74/62/ef746230d0f36f776b4db239986f8720.jpg" /// <AKI
 //// FOTO K
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.numerodonoa = ["5521989701174"]//<AKI
+global.numerodonoa = ["5521977212698"]//<AKI
 /// NÚMERO DO " DONO ".... 
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
@@ -40,16 +40,16 @@ global.gcrevoke = [] //// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.
 global.packname = "alizin domina - @hackzinhox" //// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.packname2 = `#Teamduda - by alizin`//// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.
+global.packname2 = `#Teamduda - by alizin`//// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.4G0
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.author = "𝐀𝐥𝐢𝐳𝐢𝐧 𝐝𝐞𝐯 🙅🏾‍♂️ " //NOME DA FIGURINHAS. ( MUDE SE QUISER )...
+global.author = "M4G0 🙅🏾‍♂️ " //NOME DA FIGURINHAS. ( MUDE SE QUISER )...
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
 global.sessionName = "QR-DA-DUDA-BOT" //// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.NomeDoBot = "ঔৣ͜͡ீ͜❥͜𝐃𝐔𝐃𝐀 𝐁𝐎𝐓ू ፝͜❥" //// < NOME DA(O) BOT ( COLOQUE QUALQUER NOME )
+global.NomeDoBot = "ঔৣ͜͡ீ͜❥͜$ɄԞɄ₦₳-ƉɆ₳₮Ħ ፝͜❥" //// < NOME DA(O) BOT ( COLOQUE QUALQUER NOME )
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
 global.linkgrupss = "https://chat.whatsapp.com/" //// < LINK DO GRUPO, MUDE SE QUISER.
@@ -58,21 +58,21 @@ global.linkgrupss = "https://chat.whatsapp.com/" //// < LINK DO GRUPO, MUDE SE Q
 //-------------------------------------//-------------------------------------
 global.alizin𝐎dev =  "."//<--PREFIXO
 //-------------------------------------//-------------------------------------
-global.alizin𝐎dev1 = "#"//<--PREFIXO
+global.alizin𝐎dev1 = ""//<--PREFIXO
 //-------------------------------------//-------------------------------------
-global.alizin𝐎dev2 = "/"//<--PREFIXO
+global.alizin𝐎dev2 = ""//<--PREFIXO
 //-------------------------------------//-------------------------------------
-global.alizin𝐎dev3 = "!"//<--PREFIXO
+global.alizin𝐎dev3 = ""//<--PREFIXO
 //-------------------------------------//-------------------------------------
 global.alizin𝐎dev4 = "&"//<--PREFIXO
 //-------------------------------------//-------------------------------------
-global.alizin𝐎dev5 = "$"//<--PREFIXO
+global.alizin𝐎dev5 = ""//<--PREFIXO
 
 //// < PREFIXO DO BOT ( O " CMD " ANTES DO CMD ). > ( MUDE SE QUISER ) [ NÃO PRECISA MUDAR... SÃO TODOS OS PREFIXOS ].
 
 
 
-global.NickDono = "𝐀𝐥𝐢𝐳𝐢𝐧 𝐝𝐞𝐯 🙅🏾‍♂️ " //// < NICK ( NOME ) DO " DONO "... MUDE,SE QUISER, CLARUH.
+global.NickDono = "M4G0 🙅🏾‍♂️ " //// < NICK ( NOME ) DO " DONO "... MUDE,SE QUISER, CLARUH.
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
